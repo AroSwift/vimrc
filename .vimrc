@@ -74,7 +74,7 @@ set lazyredraw
 " Theme
 set background=dark
 set termguicolors
-colorscheme quantum
+"colorscheme quantum
 set guifont=DejaVu\ Sans\ Mono\ for\ Powerline:h14
 
 " Airline
